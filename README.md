@@ -1,4 +1,4 @@
-# resume
+# Front-end разработчик / Front-end Developer
 
 ## ru
 
