@@ -2,12 +2,11 @@
 
 ## ru
 
-Front-end разработчик
-60 000 ₽ на руки
+Front-end разработчик, 60 000 ₽ на руки
 
-Занятость: полная занятость, проектная работа
-График работы: удаленная работа
-Желательное время в пути до работы: не более часа
+- Занятость: полная занятость, проектная работа
+- График работы: удаленная работа
+- Желательное время в пути до работы: не более часа
 
 ### Опыт работы — 1 год
 
@@ -90,12 +89,11 @@ TypeScript; JavaScript; HTML5; CSS3; Git; React; PHP; Bootstrap; REST API; VueJS
 
 ## en 
 
-Front-end Developer  
-60 000 RUB / 760 USD / 600 EUR
+Front-end Developer, 60 000 RUB / 760 USD / 600 EUR
 
-Employment: full-time, project work  
-Work schedule: remote work  
-Preferred commute time: no more than 1 hour  
+- Employment: full-time, project work
+- Work schedule: remote work
+- Preferred commute time: no more than 1 hour  
 
 ### Work Experience — 1 year
 
