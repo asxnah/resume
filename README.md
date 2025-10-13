@@ -70,7 +70,7 @@ Front-end разработчик
 09.02.07 Информационные системы и программирование
 
 ### Повышение квалификации, курсы
-Web-программирование на JavaScript: от собственного сайта до Fullstack-разработчика. АНО ДО «Московская школа программистов», Веб-разработка на Vue.js (Options API) и MongoDB.
+Курс 'Web-программирование на JavaScript: от собственного сайта до Fullstack-разработчика. АНО ДО «Московская школа программистов», Веб-разработка на Vue.js (Options API) и MongoDB.'
 
 ### Тесты, экзамены
 Демонстрационный экзамен на PHP, full-stack. 09.02.07 Информационные системы и программирование.
@@ -160,7 +160,8 @@ Development of the company website ooo-somaks.ru. Responsibilities and achieveme
 ### Education
 09.02.07 Information Systems and Programming  
 
-### Professional Development, CoursesWeb Programming in JavaScript: from personal website to Full-stack Developer. Moscow School of Programmers, Web Development with Vue.js (Options API) and MongoDB.  
+### Professional Development
+Course 'Web Programming in JavaScript: from personal website to Full-stack Developer. Moscow School of Programmers, Web Development with Vue.js (Options API) and MongoDB.'  
 
 ### Tests, Exams
 Demonstration exam in PHP, full-stack. 09.02.07 Information Systems and Programming.  
